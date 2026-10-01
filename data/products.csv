@@ -1,0 +1,36 @@
+product_id,name,price,description,brand_id,category_id,vendor_id
+P001,Nike Air Max 90,129.99,Classic running shoe,B001,C001,V001
+P002,Nike Revolution 6,69.99,Entry running shoe,B001,C001,V001
+P003,Nike Dunk Low,110.00,Lifestyle sneaker,B001,C001,V002
+P004,Adidas Ultraboost,180.00,Premium running shoe,B002,C001,V002
+P005,Adidas Stan Smith,95.00,Classic tennis shoe,B002,C001,V003
+P006,iPhone 17,999.00,Latest Apple smartphone,B003,C002,V001
+P007,iPhone 17 Pro,1199.00,Pro Apple smartphone,B003,C002,V001
+P008,MacBook Air M4,1299.00,Lightweight laptop,B003,C003,V004
+P009,AirPods Pro 3,249.00,Noise cancelling earbuds,B003,C004,V001
+P010,Galaxy S25,899.00,Android flagship,B004,C002,V002
+P011,Galaxy Buds3,149.00,Wireless earbuds,B004,C004,V003
+P012,Galaxy Book4,1099.00,Windows ultrabook,B004,C003,V005
+P013,Sony WH-1000XM6,399.00,Over-ear headphones,B005,C004,V003
+P014,Sony Bravia 55,799.00,4K smart TV,B005,C006,V004
+P015,Dell XPS 15,1599.00,Performance laptop,B006,C003,V001
+P016,Dell Wireless Mouse,29.99,Ergonomic mouse,B006,C005,V002
+P017,Lenovo ThinkPad X1,1499.00,Business laptop,B007,C003,V005
+P018,Lenovo USB-C Hub,49.99,Multiport adapter,B007,C005,V006
+P019,Nike Pegasus 41,139.99,Daily trainer,B001,C001,V001
+P020,Adidas Galaxy 6,59.99,Budget running shoe,B002,C001,V004
+P021,Samsung Galaxy Tab S10,699.00,Android tablet,B004,C005,V002
+P022,Apple Watch Series 11,429.00,Smart watch,B003,C005,V001
+P023,Sony PlayStation Portal,199.99,Remote play device,B005,C006,V005
+P024,Dell Monitor 27,329.99,QHD display,B006,C006,V003
+P025,Lenovo Yoga Slim,999.00,Convertible laptop,B007,C003,V006
+P-BANANA-001,banana,0.59,Fresh yellow banana bunch,B008,C007,V003
+P-BANANA-002,banana,0.65,Organic banana pack,B008,C007,V001
+P-BANANA-003,banana,0.55,Value banana bundle,B008,C007,V002
+P-BANANA-004,banana,0.70,Premium ripe bananas,B008,C007,V004
+P-BANANA-005,banana,0.60,Single-origin bananas,B008,C007,V005
+P026,Nike Metcon 9,149.99,Cross training shoe,B001,C001,V002
+P027,Adidas NMD R1,130.00,Streetwear sneaker,B002,C001,V005
+P028,iPhone 17 Case,39.99,Silicone case,B003,C005,V006
+P029,Galaxy SmartTag2,29.99,Item tracker,B004,C005,V004
+P030,Sony LinkBuds Open,179.99,Open-ear earbuds,B005,C004,V006

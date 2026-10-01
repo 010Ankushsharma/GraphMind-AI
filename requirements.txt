@@ -1,0 +1,17 @@
+# Core
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.9.0
+pydantic-settings>=2.6.0
+python-dotenv>=1.0.0
+networkx>=3.2
+httpx>=0.27.0
+
+# LLM providers (optional at runtime; import guarded in code)
+google-genai>=1.0.0
+openai>=1.55.0
+anthropic>=0.39.0
+
+# Testing
+pytest>=8.3.0
+pytest-asyncio>=0.24.0
